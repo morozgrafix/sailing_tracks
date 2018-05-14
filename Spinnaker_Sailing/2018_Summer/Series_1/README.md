@@ -20,3 +20,18 @@
 
 * Skipper Count: 13
 * DNC, DNS, DNF, RET, DNE score: 14
+
+
+### Race Courses:
+**Race 1:**  Start - 3p - Yp - 3p - Finish
+
+**Race 2:** Start - 3p - Yp - 3p - Finish
+
+**Race 3:** Start - 2p - 12p - 2s Finish
+
+**Race 4:** Start - 2p - 12s - Xs - 2s- Finish
+
+**Race 5:**
+
+**Race 6:**
+
