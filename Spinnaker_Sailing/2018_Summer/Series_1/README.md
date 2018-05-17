@@ -23,15 +23,15 @@
 
 
 ### Race Courses:
-**Race 1:**  Start - 3p - Yp - 3p - Finish
+**Race 1:**  Start - 3p - Yp - 3p - Finish - [RaceQs Replay](http://raceqs.com/regattas/63047?eventId=67661)
 
-**Race 2:** Start - 3p - Yp - 3p - Finish
+**Race 2:** Start - 3p - Yp - 3p - Finish - [RaceQs Replay](http://raceqs.com/regattas/63047?eventId=67662)
 
-**Race 3:** Start - 2p - 12p - 2s Finish
+**Race 3:** Start - 2p - 12p - 2s Finish - [RaceQs Replay](http://raceqs.com/regattas/63047?eventId=67663)
 
-**Race 4:** Start - 2p - 12s - Xs - 2s- Finish
+**Race 4:** Start - 2p - 12s - Xs - 2s- Finish - [RaceQs Replay](http://raceqs.com/regattas/63047?eventId=67664)
 
-**Race 5:** Start - 2p - 12s - Xs - 2s- Finish
+**Race 5:** Start - 2p - 12s - Xs - 2s- Finish - [RaceQs Replay](http://raceqs.com/regattas/63047?eventId=67665)
 
 **Race 6:**
 
