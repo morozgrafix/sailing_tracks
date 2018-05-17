@@ -2,8 +2,8 @@
 ### Random Draw One Design - Merit 25
 
 | Spinnaker Sailing | Race 1 - April 18 | Race 2 - April 25 | Race 3 - May 2    | Race 4- May 9     | Race 5 - May 16   | Race 6 - May 23   | Series Points | Final Series Points |
-| --- | --- | --- | --- | --- | --- | --- | --- | Best 5 Races |
-| Skipper / Team    | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skipper / Team    | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | | Best 5 Races |
 | Brett / No Worries | M13: 3 / 3 | M8: 1 /1 | M2: RET / 14 | M5: 1 / 1 | M1: 1 / 1 || 20 | 6 |
 | Sergey | M5: 7 / 7 | M11: 3 / 3 | M5: 4 / 4 | M6: 2 / 2 | M3: 3 / 3 || 19 | 12 |
 | Arjun / Offsite Meeting | M12: 6 / 6 | M9: 2 / 2 | M1: 1 / 1 | M7: 6 / 6| M4: 10 / 10 || 25 | 15 |
