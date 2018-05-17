@@ -5,7 +5,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skipper / Team    | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | | Best 5 Races |
 | Brett / No Worries | M13: 3 / 3 | M8: 1 /1 | M2: RET / 14 | M5: 1 / 1 | M1: 1 / 1 || 20 | 6 |
-| Sergey | M5: 7 / 7 | M11: 3 / 3 | M5: 4 / 4 | M6: 2 / 2 | M3: 3 / 3 || 19 | 12 |
+| Sergey / QuatroBaklajanos | M5: 7 / 7 | M11: 3 / 3 | M5: 4 / 4 | M6: 2 / 2 | M3: 3 / 3 || 19 | 12 |
 | Arjun / Offsite Meeting | M12: 6 / 6 | M9: 2 / 2 | M1: 1 / 1 | M7: 6 / 6| M4: 10 / 10 || 25 | 15 |
 | Nyle | M9: 8 / 8 | M12: 6 / 6 | M11: 2 / 2 | M3: 5 / 5 | M11: 5 / 5 || 26 | 18 |
 | David SR / Underdog | M14: 1 / 1 | DNC / 14 | M7: RET / 14 | M13: 3 / 3 | M12: 6 / 6 || 38 | 24 |
