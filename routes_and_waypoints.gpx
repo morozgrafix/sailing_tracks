@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Transas iSailor">
+    <wpt lat="37.580583333" lon="-122.218033333">
+      <name>E</name>
+      <cmt>Yello collar buoy marked ‘E’</cmt>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-16T02:23:26.352Z</time>
+    </wpt>
+    <wpt lat="37.574933333" lon="-122.198766667">
+      <name>X</name>
+      <cmt>Yellow collar buoy marked ‘X’</cmt>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-15T22:44:08.593Z</time>
+    </wpt>
+    <wpt lat="37.509166667" lon="-122.211850000">
+      <name>Dolphin</name>
+      <cmt>Starboard Start Line Marker with 20</cmt>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-16T02:17:30.115Z</time>
+    </wpt>
+    <wpt lat="37.553400000" lon="-122.195416667">
+      <name>Channel Exit</name>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-17T01:57:24.531Z</time>
+    </wpt>
+    <wpt lat="37.513433333" lon="-122.212183333">
+      <name>18</name>
+      <cmt>Mark 18</cmt>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-17T01:09:12.360Z</time>
+    </wpt>
+    <wpt lat="37.565983333" lon="-122.228716667">
+      <name>S</name>
+      <cmt>Yellow collar buoy marked ‘S’</cmt>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-15T22:42:00.839Z</time>
+    </wpt>
+    <wpt lat="37.582600000" lon="-122.247983333">
+      <name>B</name>
+      <cmt>Green Navigation buoy</cmt>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-16T02:20:18.191Z</time>
+    </wpt>
+    <wpt lat="37.512500000" lon="-122.210750000">
+      <name>Black Barrel</name>
+      <cmt>Start line starboard - line w/18</cmt>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-19T22:33:23.483Z</time>
+    </wpt>
+    <wpt lat="37.543150000" lon="-122.166366667">
+      <name>Y</name>
+      <cmt>Yellow collar buoy marked ‘Y’</cmt>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-15T22:24:48.529Z</time>
+    </wpt>
+    <wpt lat="37.509550000" lon="-122.213550000">
+      <name>20</name>
+      <cmt>Marker 20</cmt>
+      <geoidheight>0</geoidheight>
+      <type>Symbol</type>
+      <sym>Waypoint</sym>
+      <time>2018-04-17T01:02:49.917Z</time>
+    </wpt>
+    <rte>
+      <name>2p-12p-2s-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2p</name>
+      </rtept>
+      <rtept lat="37.559758124" lon="-122.210666998">
+        <name>12p</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2s</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
+    <rte>
+      <name>3s-Yp-3p-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.549962585" lon="-122.193391185">
+        <name>3s</name>
+      </rtept>
+      <rtept lat="37.543143157" lon="-122.166338423">
+        <name>Yp</name>
+      </rtept>
+      <rtept lat="37.549965062" lon="-122.193392302">
+        <name>3p</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
+    <rte>
+      <name>2p-Ep-2s-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2p</name>
+      </rtept>
+      <rtept lat="37.580570444" lon="-122.218021229">
+        <name>Ep</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2s</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
+    <rte>
+      <name>2p-Xp-2s-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2p</name>
+      </rtept>
+      <rtept lat="37.574933333" lon="-122.198766667">
+        <name>Xp</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2s</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
+    <rte>
+      <name>3p-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.549962585" lon="-122.193391185">
+        <name>3p</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
+    <rte>
+      <name>2p-Sp-2s-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2p</name>
+      </rtept>
+      <rtept lat="37.560144975" lon="-122.210307835">
+        <name>12p</name>
+      </rtept>
+      <rtept lat="37.565980392" lon="-122.228707923">
+        <name>Sp</name>
+      </rtept>
+      <rtept lat="37.560144975" lon="-122.210307835">
+        <name>12s</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2s</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
+    <rte>
+      <name>2p-Bp-2s-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2p</name>
+      </rtept>
+      <rtept lat="37.582611237" lon="-122.247981208">
+        <name>Bp</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2s</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
+    <rte>
+      <name>2p-12s-Xs-2s-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2p</name>
+      </rtept>
+      <rtept lat="37.559758124" lon="-122.210666998">
+        <name>12s</name>
+      </rtept>
+      <rtept lat="37.574933333" lon="-122.198766667">
+        <name>Xs</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2s</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
+    <rte>
+      <name>2p-Xp-12p-2s-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2p</name>
+      </rtept>
+      <rtept lat="37.574933333" lon="-122.198766667">
+        <name>Xp</name>
+      </rtept>
+      <rtept lat="37.559758124" lon="-122.210666998">
+        <name>12p</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2s</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
+  </gpx>
