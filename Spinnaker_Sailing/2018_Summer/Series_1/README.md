@@ -33,5 +33,5 @@
 
 **Race 5:** Start - 2p - 12s - Xs - 2s- Finish - [RaceQs Replay](http://raceqs.com/regattas/63047?eventId=67665) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2827917)
 
-**Race 6:**
+**Race 6:** Start - 2p - Xp - 12p - 2s- Finish
 
