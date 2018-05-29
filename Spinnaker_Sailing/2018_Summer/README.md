@@ -17,7 +17,4 @@
 | 12 | Sanjin Tulac / Fun in the Sun | 30 |  |   |  | 30 |
 | 13 | Andrew / Club Boat | 56 |  |   |  | 56 |
 
-* Skipper Count: 13
-* DNC, DNS, DNF, RET, DNE score: 14
-
 

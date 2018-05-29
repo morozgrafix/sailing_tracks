@@ -1,7 +1,7 @@
 # Spinnaker Sailing - Summer 2018 - Series 1
 ### Random Draw One Design - Merit 25
 
-| Spinnaker Sailing | Race 1 - April 18 | Race 2 - April 25 | Race 3 - May 2    | Race 4- May 9     | Race 5 - May 16   | Race 6 - May 23   | Series Points | Final Series Points |
+| Spinnaker Sailing | Race 1 - April 18 | Race 2 - April 25 | Race 3 - May 2 | Race 4- May 9 | Race 5 - May 16 | Race 6 - May 23 | Series Points | Final Series Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skipper / Team    | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | | Best 4 Races |
 | Brett / No Worries | M13: 3 / 3 | M8: 1 /1 | M2: RET / 14 | M5: 1 / 1 | M1: 1 / 1 | DNC / 14| 34 | 6 |
@@ -23,7 +23,7 @@
 
 
 ### Race Courses:
-**Race 1:**  Start - 3p - Yp - 3p - Finish - [RaceQs Replay](http://raceqs.com/regattas/63047?eventId=67661) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2789618)
+**Race 1:** Start - 3p - Yp - 3p - Finish - [RaceQs Replay](http://raceqs.com/regattas/63047?eventId=67661) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2789618)
 
 **Race 2:** Start - 3p - Yp - 3p - Finish - [RaceQs Replay](http://raceqs.com/regattas/63047?eventId=67662) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2797754)
 
