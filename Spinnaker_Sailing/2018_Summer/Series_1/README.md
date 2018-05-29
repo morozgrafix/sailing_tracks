@@ -1,4 +1,4 @@
-# Spinnaker Sailing - Summer - 2018 Series 1
+# Spinnaker Sailing - Summer 2018 - Series 1
 ### Random Draw One Design - Merit 25
 
 | Spinnaker Sailing | Race 1 - April 18 | Race 2 - April 25 | Race 3 - May 2    | Race 4- May 9     | Race 5 - May 16   | Race 6 - May 23   | Series Points | Final Series Points |
@@ -8,11 +8,11 @@
 | Sergey / QuatroBaklajanos | M5: 7 / 7 | M11: 3 / 3 | M5: 4 / 4 | M6: 2 / 2 | M3: 3 / 3 | M2: 2 / 2 | 19 | 10 |
 | David SR / Underdog | M14: 1 / 1 | DNC / 14 | M7: RET / 14 | M13: 3 / 3 | M12: 6 / 6 | M1: 1 / 1 | 39 | 11 |
 | Arjun / Offsite Meeting | M12: 6 / 6 | M9: 2 / 2 | M1: 1 / 1 | M7: 6 / 6 | M4: 10 / 10 | M6: 4 / 4 | 29 | 13 |
-| Nyle | M9: 8 / 8 | M12: 6 / 6 | M11: 2 / 2 | M3: 5 / 5 | M11: 5 / 5 | M7: RTD / 14 | 40 | 18 |
 | David P | DNC / 14 | M3: 5 / 5 | M13: 6 / 6 | M4: 8 / 8 | M2: 7 / 7 | M8: 3 / 3 | 43 | 21 |
 | Alex Athougies | DNC / 14 | M7: 4 / 4 | M4: 8 / 8 | M8: 11 / 11 | M5: 4 / 4 | M13: 5 / 5 | 46 | 21 |
 | Doug | M7: 2 / 2 | DNC / 14 | M3: 7 / 7 | M9: 4 / 4 | DNC / 14 | M4: 9 / 9 | 50 | 22 |
 | Stan Phillips | DNC / 14 | M5: 7 / 7 | M6: 3 / 3 | M11: 9 / 9 | M9: 8 / 8 | M5: 6 / 6 | 47 | 24 |
+| Nyle | M9: 8 / 8 | M12: 6 / 6 | M11: 2 / 2 | M3: 5 / 5 | M11: 5 / 5 | M7: DNE / 14 | 40 | 26 |
 | Bob Henig | M6: 4 / 4 | M6: 8 / 8 | M14: 5 / 5 | M12: 10 / 10 | DNC / 14 | DNC / 14| 55 | 27 |
 | Alexander O | M8: 5 / 5 | DNC / 14 | DNC / 14 | M1: 7 / 7 | M7: 9 / 9 | M11: 8 / 8 | 57 | 29 |
 | Sanjin Tulac | DNC / 14 | M4: 9 / 9 | DNC / 14 | M14: 13 / 13 | M8: 1 / 1 | M12: 7 / 7 | 58 | 30 |
