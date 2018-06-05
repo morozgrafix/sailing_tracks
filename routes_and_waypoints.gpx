@@ -571,4 +571,64 @@
         <name>20-dolphin</name>
       </rtept>
     </rte>
+    <rte>
+      <name>2p-Xp-Sp-12s-2s-Finish</name>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2p</name>
+      </rtept>
+      <rtept lat="37.574933333" lon="-122.198766667">
+        <name>Xp</name>
+      </rtept>
+      <rtept lat="37.565983333" lon="-122.228716667">
+        <name>Sp</name>
+      </rtept>
+      <rtept lat="37.559758124" lon="-122.210666998">
+        <name>12s</name>
+      </rtept>
+      <rtept lat="37.553400000" lon="-122.195416667">
+        <name>2s</name>
+      </rtept>
+      <rtept lat="37.540470135" lon="-122.193607618">
+        <name>5-6</name>
+      </rtept>
+      <rtept lat="37.533332469" lon="-122.193001431">
+        <name>7-8</name>
+      </rtept>
+      <rtept lat="37.528857696" lon="-122.195475330">
+        <name>9-10</name>
+      </rtept>
+      <rtept lat="37.525531518" lon="-122.199761309">
+        <name>11-12</name>
+      </rtept>
+      <rtept lat="37.521220595" lon="-122.205481242">
+        <name>13-14</name>
+      </rtept>
+      <rtept lat="37.517649652" lon="-122.207431747">
+        <name>15-16</name>
+      </rtept>
+      <rtept lat="37.512910641" lon="-122.211363664">
+        <name>18-dock</name>
+      </rtept>
+      <rtept lat="37.509301171" lon="-122.212798813">
+        <name>20-dolphin</name>
+      </rtept>
+    </rte>
   </gpx>
