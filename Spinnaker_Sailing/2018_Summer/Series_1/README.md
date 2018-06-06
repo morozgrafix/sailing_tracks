@@ -1,4 +1,4 @@
-# Spinnaker Sailing - Summer 2018 - Series 2
+# Spinnaker Sailing - Summer 2018 - Series 1
 ### Random Draw One Design - Merit 25
 
 | Spinnaker Sailing | Race 1 - May 30 | Race 2 - June 6 | Race 3 - June 13 | Race 4- June 20 | Race 5 - June 27 | Race 6 - Jul 11 | Series Points | Final Series Points |
