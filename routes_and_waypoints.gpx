@@ -572,7 +572,7 @@
       </rtept>
     </rte>
     <rte>
-      <name>2p-Xp-Sp-12s-2s-Finish</name>
+      <name>2p-Xp-Sp-2s-Finish</name>
       <rtept lat="37.517649652" lon="-122.207431747">
         <name>15-16</name>
       </rtept>
@@ -600,7 +600,7 @@
       <rtept lat="37.565983333" lon="-122.228716667">
         <name>Sp</name>
       </rtept>
-      <rtept lat="37.559758124" lon="-122.210666998">
+      <rtept lat="37.560144975" lon="-122.210307835">
         <name>12s</name>
       </rtept>
       <rtept lat="37.553400000" lon="-122.195416667">
