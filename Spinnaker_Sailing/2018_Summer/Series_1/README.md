@@ -6,19 +6,19 @@
 | Skipper / Team | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | | Best 4 Races |
 | Brett / No Worries | M1: 6 / 6 | M6: 1 / 1 | M2: 2 / 2 | | | 9 | |
 | David SR / Underdog | M4: 5 / 5 | M11: 4 / 4 | M7: 1 / 1 | | | 10 | |
-| Sergey / QuatroBaklajanos | M5: 3 / 3 | DNS / 10 | M3: 3 / 3 | | | 16 | |
-| Alex Athougies | M3: 1 / 1 | M8: 6 / 6 | DNS / 10 | | | 17 | |
-| Arjun / Offsite Meeting | M2: 4 / 4 | M13: 5 / 5 | M1: RET / 10 | | | 19 | |
-| Doug | M6: 7 / 7 | M9: 2 / 2 | DNS / 10 | | | 19 | |
-| Patrick | M12: 2 / 2 | DNS / 10 | DNS / 10 | | | 22 | |
-| Keith J | DNS / 10 | M12: 3 / 3 | M4: RET / 10 | | | 23 | |
-| Alexander O / Alexander | DNS / 10 | DNS / 10 | M6: 4 / 4 | | | 24 | |
-| Stan Phillips | M8: 8 / 8 | M?: 7 / 7 | DNS / 10 | | | 25 | |
-| Andrew / Club Boat | M9: RET(3) / 10 | M10: RET / 10 | M5: RET(3) / 10 | | | 30 | |
+| Sergey / QuatroBaklajanos | M5: 3 / 3 | DNS / 11 | M3: 3 / 3 | | | 17 | |
+| Alex Athougies | M3: 1 / 1 | M8: 6 / 6 | DNS / 11 | | | 18 | |
+| Arjun / Offsite Meeting | M2: 4 / 4 | M13: 5 / 5 | M1: RET / 11 | | | 20 | |
+| Doug | M6: 7 / 7 | M9: 2 / 2 | DNS / 11 | | | 20 | |
+| Patrick | M12: 2 / 2 | DNS / 11 | DNS / 11 | | | 24 | |
+| Keith J | DNS / 11 | M12: 3 / 3 | M4: RET / 11 | | | 25 | |
+| Alexander O / Alexander | DNS / 11 | DNS / 11 | M6: 4 / 4 | | | 26 | |
+| Stan Phillips | M8: 8 / 8 | M?: 7 / 7 | DNS / 11 | | | 26 | |
+| Andrew / Club Boat | M9: RET(3) / 11 | M10: RET / 11 | M5: RET(3) / 11 | | | 33 | |
 
 
-* Skipper Count: 9
-* DNC, DNS, DNF, RET, DNE score: 10
+* Skipper Count: 10
+* DNC, DNS, DNF, RET, DNE score: 11
 
 
 ### Race Courses:
