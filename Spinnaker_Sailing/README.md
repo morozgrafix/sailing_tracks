@@ -2,7 +2,7 @@
 ### Random Draw One Design - Merit 25
 
 | Place | Skipper / Team | Spring Series 1: April 18  - May 23| Summer Series 1:  May 30 - July 11 | Summer Series 2:  July 18  - August 22 | Summer Series 3: August 29 - October 3 | Season Points | Final Season Points |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Sergey / QuatroBaklajanos | 19 | 23 | 6 |  | 48 |  |
 | 2 | David SR / Underdog | 39 | 16 | 3  |  | 58 |  |
 | 3 | Brett / Blue Octopus | 34 | 24 | 1 |  | 59 |  |
