@@ -31,5 +31,5 @@
 
 **Race 4:** Start - 12s - Xs - Finish - [RaceQs Replay](http://raceqs.com/regattas/64373?eventId=69589) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2889059)
 
-**Race 5:** 
+**Race 5:** Start - Sp - Finish - [RaceQs Replay](http://raceqs.com/tv-beta/tv.htm#userId=1066323&divisionId=54340) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2944891)
 
