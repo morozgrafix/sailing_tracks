@@ -11,7 +11,7 @@
 | Alex Athougies / Merit Athougies | M9: 5 / 5 | M6: 5 / 5 | M3: 6 / 6 |  |  |  | 16 | 16 |
 | Stan Phillips | M12: 8 / 8 | M7: 6 / 6 | M12: 7 / 7 |  |  |  | 21 | 21 |
 | David SR / Underdog | M11: 3 / 3 | DNC: 10  | DNC: 10 |  |  |  | 23 | 23 |
-| Doug Atkinson / No Drama | M7: 7 / 7 | M5: 7 / 7  | DNC: 9 |  |  |  | 23 | 23 |
+| Doug Atkinson / No Drama | M7: 7 / 7 | M5: 7 / 7  | DNC: 10 |  |  |  | 24 | 24 |
 | Alexander O | DNC: 10 | DNC: 10  | M2: 5 / 5 |  |  |  | 25 | 25 |
 
 * Skipper Count: 9
