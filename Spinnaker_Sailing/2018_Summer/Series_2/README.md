@@ -6,13 +6,13 @@
 | Skipper / Team | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | | Best 4 Races |
 | Brett Herr / Blue Octopus | M5: 1 / 1 | M4: 2 / 2 | M8: 2 / 2 |  |  |  | 5 | 5 |
 | Andrew / Club Boat | M13: 4 / 4 | M2: 1 / 1 | M4: 3 / 3 |  |  |  | 8 | 8 |
-| Arjun Verma / Offsite Meeting | M4: 2 / 2 | M3: 3 / 3 | M9: ? / ? |  |  |  | 5 | 5 |
+| Arjun Verma / Offsite Meeting | M4: 2 / 2 | M3: 3 / 3 | M9: 4 / 4 |  |  |  | 9 | 9 |
 | Sergey Morozov / QuatroBaklajanos | M6: 6 / 6 | M13: 4 / 4 | M11: 1 / 1  |  |  |  | 11 | 11 |
-| Alex Athougies / Merit Athougies | M9: 5 / 5 | M6: 5 / 5 | M3: ? / ? |  |  |  | 10 | 10 |
-| David SR / Underdog | M11: 3 / 3 | DNC: 10  | DNC: 10 |  |  |  | 21 | 21 |
-| Stan Phillips | M12: 8 / 8 | M7: 6 / 6 | M12: ? / ? |  |  |  | 14 | 14 |
-| Doug Atkinson / No Drama | M7: 7 / 7 | M5: 7 / 7  | DNC: 9 |  |  |  | 14 | 14 |
-| Alexander O | DNC: 10 | DNC: 10  | M2: ? / ? |  |  |  | 20 | 20 |
+| Alex Athougies / Merit Athougies | M9: 5 / 5 | M6: 5 / 5 | M3: 6 / 6 |  |  |  | 16 | 16 |
+| Stan Phillips | M12: 8 / 8 | M7: 6 / 6 | M12: 7 / 7 |  |  |  | 21 | 21 |
+| David SR / Underdog | M11: 3 / 3 | DNC: 10  | DNC: 10 |  |  |  | 23 | 23 |
+| Doug Atkinson / No Drama | M7: 7 / 7 | M5: 7 / 7  | DNC: 9 |  |  |  | 23 | 23 |
+| Alexander O | DNC: 10 | DNC: 10  | M2: 5 / 5 |  |  |  | 25 | 25 |
 
 * Skipper Count: 9
 * DNC, DNS, DNF, RET, DNE score: 10
