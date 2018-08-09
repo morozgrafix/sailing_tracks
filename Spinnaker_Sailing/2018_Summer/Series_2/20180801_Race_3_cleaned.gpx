@@ -12,14 +12,8 @@
 			<badelf:elevationSource>gps</badelf:elevationSource>
 		</extensions>
 	</metadata>
-	<wpt lat="37.507325" lon="-122.214017">
-		<ele>0</ele>
-		<time>2018-08-02T03:26:18.000Z</time>
-		<name>POI 1</name>
-		<hdop>0.600000</hdop>
-	</wpt>
 	<trk>
-		<name>Wednesday Afternoon Run</name>
+		<name>Summer 2018 - Series 2 - Race 3</name>
 		<trkseg>
 			<trkpt lat="37.511620" lon="-122.212781">
 				<ele>0</ele>
