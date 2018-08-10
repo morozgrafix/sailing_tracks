@@ -4,18 +4,18 @@
 | Spinnaker Sailing | Race 1 - July 18 | Race 2 - July 25 | Race 3 - August 1 | Race 4 - August 8 | Race 5 - August 15 | Race 6 - August 22 | Series Points | Final Series Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skipper / Team | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | | Best 4 Races |
-| Brett Herr / Blue Octopus | M5: 1 / 1 | M4: 2 / 2 | M8: 2 / 2 |  |  |  | 5 | 5 |
-| Andrew / Club Boat | M13: 4 / 4 | M2: 1 / 1 | M4: 3 / 3 |  |  |  | 8 | 8 |
-| Arjun Verma / Offsite Meeting | M4: 2 / 2 | M3: 3 / 3 | M9: 4 / 4 |  |  |  | 9 | 9 |
-| Sergey Morozov / QuatroBaklajanos | M6: 6 / 6 | M13: 4 / 4 | M11: 1 / 1  |  |  |  | 11 | 11 |
-| Alex Athougies / Merit Athougies | M9: 5 / 5 | M6: 5 / 5 | M3: 6 / 6 |  |  |  | 16 | 16 |
-| Stan Phillips | M12: 8 / 8 | M7: 6 / 6 | M12: 7 / 7 |  |  |  | 21 | 21 |
-| David SR / Underdog | M11: 3 / 3 | DNC: 10  | DNC: 10 |  |  |  | 23 | 23 |
-| Doug Atkinson / No Drama | M7: 7 / 7 | M5: 7 / 7  | DNC: 10 |  |  |  | 24 | 24 |
-| Alexander O | DNC: 10 | DNC: 10  | M2: 5 / 5 |  |  |  | 25 | 25 |
-
-* Skipper Count: 9
-* DNC, DNS, DNF, RET, DNE score: 10
+| Brett Herr / Blue Octopus | M5: 1 / 1 | M4: 2 / 2 | M8: 2 / 2 | M9: 2 / 2 |  |  | 7 | 7 |
+| Sergey Morozov / QuatroBaklajanos | M6: 6 / 6 | M13: 4 / 4 | M11: 1 / 1  | M10: 1 / 1 |  |  | 12 | 12 |
+| Andrew / Club Boat | M13: 4 / 4 | M2: 1 / 1 | M4: 3 / 3 | M3: 4 / 4 |  |  | 12 | 12 |
+| Arjun Verma / Offsite Meeting | M4: 2 / 2 | M3: 3 / 3 | M9: 4 / 4 | M8: 3 / 3 |  |  | 12 | 12 |
+| Alex Athougies / Merit Athougies | M9: 5 / 5 | M6: 5 / 5 | M3: 6 / 6 | DNC: 11 |  |  | 27 | 27 |
+| Stan Phillips | M12: 8 / 8 | M7: 6 / 6 | M12: 7 / 7 | M1: 8 / 8 |  |  | 29 | 29 |
+| David SR / Underdog | M11: 3 / 3 | DNC: 11  | DNC: 11 | M11: 5 / 5 |  |  | 30 | 30 |
+| Doug Atkinson / No Drama | M7: 7 / 7 | M5: 7 / 7  | DNC: 11 | M12: 7 / 7 |  |  | 32 | 32 |
+| Alexander O | DNC: 11 | DNC: 11  | M2: 5 / 5 | M4: RTD / 11 |  |  | 38 | 38 |
+| David P | DNC: 11 | DNC: 11 | DNC: 11 | M7: 6 / 6 |  |  | 39 | 39 |
+* Skipper Count: 10
+* DNC, DNS, DNF, RET, DNE score: 11
 
 
 ### Race Courses:
@@ -26,7 +26,7 @@
 
 **Race 3:** Start - Yp - Xp - Finish - [RaceQs Replay](http://raceqs.com/regattas/65439?eventId=70785) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2946415)
 
-**Race 4:** 
+**Race 4:** Start - Xp - 12p - Finish - [RaceQs Replay](http://raceqs.com/regattas/65439?eventId=70786) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2957966)
 
 **Race 5:**
 
