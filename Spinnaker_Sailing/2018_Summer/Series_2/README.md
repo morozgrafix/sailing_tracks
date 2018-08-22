@@ -13,7 +13,7 @@
 | Doug Atkinson / No Drama | M7: 7 / 7 | M5: 7 / 7  | DNC / 11 | M12: 7 / 7 | M8: 6 / 6 |  | 38 | 27 |
 | Stan Phillips | M12: 8 / 8 | M7: 6 / 6 | M12: 7 / 7 | M1: 8 / 8 | DNC / 11 |  | 40 | 29 |
 | Alexander O | DNC / 11 | DNC / 11  | M2: 5 / 5 | M4: RTD / 11 | M3: 7 / 7 |  | 45 | 34 |
-| David P | DNC / 11 | DNC / 11 | DNC / 11 | M7: 6 / 6 | M1: 8 / 8 |  | 39 | 39 |
+| David P | DNC / 11 | DNC / 11 | DNC / 11 | M7: 6 / 6 | M1: 8 / 8 |  | 47 | 36 |
 * Skipper Count: 10
 * DNC, DNS, DNF, RET, DNE score: 11
 
