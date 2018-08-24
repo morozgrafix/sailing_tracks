@@ -13,7 +13,7 @@
 | Alexander O | DNC / 11 | DNC / 11  | M2: 5 / 5 | M4: RET / 11 | M3: 7 / 7 | M6: 3 / 3 | 48 | 26 |
 | Alex Athougies / Merit Athougies | M9: 5 / 5 | M6: 5 / 5 | M3: 6 / 6 | DNC / 11 | DNC / 11 | DNC / 11 | 49 | 27 |
 | Stan Phillips | M12: 8 / 8 | M7: 6 / 6 | M12: 7 / 7 | M1: 8 / 8 | DNC / 11 | DNC / 11 | 51 | 29 |
-| David P | DNC / 11 | DNC / 11 | DNC / 11 | M7: 6 / 6 | M1: 8 / 8 | M3: RDG / 6 | 53 | 31 |
+| David P | DNC / 11 | DNC / 11 | DNC / 11 | M7: 6 / 6 | M1: 8 / 8 | M3: RDG / 7 | 54 | 32 |
 * Skipper Count: 10
 * DNC, DNS, DNF, RET, DNE score: 11
 
