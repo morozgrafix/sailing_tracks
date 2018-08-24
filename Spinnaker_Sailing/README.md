@@ -11,7 +11,7 @@
 | Alex Athougies / Merit Athougies | 46 | 33 | 49 | | 128 | 114 |
 | Stan Phillips / Frequent Flyer | 47 | 37 | 51 | | 135 | 121 |
 | Alexander O / Alexander | 57 | 41 | 48 | | 146 | 132 |
-| David P / DavP | 43 | 60 | 53 | | 156 | 142 |
+| David P / DavP | 43 | 60 | 54 | | 157 | 143 |
 | Nyle / | 40 | 60 | 66 | | 166 | 152 |
 | Andrew / Spinnaker Race Training | 84 | 60 | 25 | | 169 | 155 |
 | Bob Henig /	 | 55 | 60 | 66 | | 181 | 167 |
