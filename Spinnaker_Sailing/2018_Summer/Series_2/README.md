@@ -7,7 +7,7 @@
 | Sergey Morozov / QuatroBaklajanos | M6: 6 / 6 | M13: 4 / 4 | M11: 1 / 1  | M10: 1 / 1 | M7: 1 / 1 | M1: 5 / 5 | 18 | 7 |
 | Brett Herr / Blue Octopus | M5: 1 / 1 | M4: 2 / 2 | M8: 2 / 2 | M9: 2 / 2 | M4: 4 / 4 | M13: 4 / 4 | 15 | 7 |
 | Andrew / Club Boat | M13: 4 / 4 | M2: 1 / 1 | M4: 3 / 3 | M3: 4 / 4 | M6: 2 / 2 | M5: RET / 11 | 25 | 10 |
-| Arjun Verma / Offsite Meeting | M4: 2 / 2 | M3: 3 / 3 | M9: 4 / 4 | M8: 3 / 3 | M9: 4 / 4 | M4: 6 / 6 | 22 | 12 |
+| Arjun Verma / Offsite Meeting | M4: 2 / 2 | M3: 3 / 3 | M9: 4 / 4 | M8: 3 / 3 | M9: 5 / 5 | M4: 6 / 6 | 23 | 12 |
 | David SR / Underdog | M11: 3 / 3 | DNC / 11  | DNC / 11 | M11: 5 / 5 | M5: 3 / 3 | M3: 2 / 2 | 35 | 13 |
 | Doug Atkinson / No Drama | M7: 7 / 7 | M5: 7 / 7  | DNC / 11 | M12: 7 / 7 | M8: 6 / 6 | M2: 1 / 1 | 39 | 21 |
 | Alexander O | DNC / 11 | DNC / 11  | M2: 5 / 5 | M4: RET / 11 | M3: 7 / 7 | M6: 3 / 3 | 48 | 26 |
