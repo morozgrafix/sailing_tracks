@@ -7,12 +7,12 @@
 | Sergey Morozov / Quatro Baklajanos | 21 | 23 | 18 | 10 | 72 | 41 |
 | David SR / Underduck | 39 | 16 | 35 | 13 | 103 | 53 |
 | Arjun Verma / Offsite Meeting | 29 | 35 | 23 | 12 | 99 | 58 |
-| Doug Atkinson / No Drama | 50 | 32 | 39 | 22 | 143 | 92 |
-| Alexander O / Alexander | 57 | 41 | 48 | 17 | 163 | 111 |
+| Doug Atkinson / No Drama | 50 | 32 | 39 | 22 | 142 | 91 |
+| Alexander O / Alexander | 57 | 41 | 48 | 17 | 162 | 110 |
 | Stan Phillips / Frequent Flyer | 47 | 37 | 51 | 24 | 159 | 111 |
 | Alex Athougies / Merit Athougies | 46 | 33 | 49 | 33 | 161 | 112 |
-| Andrew / Spinnaker Race Training | 84 | 60 | 25 | 8 | 177 | 121 |
-| David P / DavP | 43 | 60 | 54 | 25 | 182 | 132 |
+| Andrew / Spinnaker Race Training | 84 | 60 | 25 | 8 | 183 | 127 |
+| David P / DavP | 43 | 60 | 54 | 25 | 181 | 131 |
 | Nyle / | 40 | 60 | 66 | 22 | 188 | 138 |
 | Bob Henig /	 | 55 | 60 | 66 | 33 | 214 | 162 |
 | Sanjin Tulac / Fun in the Sun | 58 | 60 | 66 | 33 | 217 | 164 |
