@@ -1,34 +1,33 @@
-# Spinnaker Sailing - Summer 2018 - Series 3
+# Spinnaker Sailing - Summer 2018 - Series 2
 ### Random Draw One Design - Merit 25
 
-| Spinnaker Sailing | Race 1 - August 29 | Race 2 - September 5 | Race 3 - September 12 | Race 4 - September 19 | Race 5 - September 26 | Race 6 - October 3 | Series Points | Final Series Points |
+| Spinnaker Sailing | Race 1 - July 18 | Race 2 - July 25 | Race 3 - August 1 | Race 4 - August 8 | Race 5 - August 15 | Race 6 - August 22 | Series Points | Final Series Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skipper / Team | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | boat: position / points | | Best 4 Races |
-| Sergey Morozov / QuatroBaklajanos | M12: 1 / 1 | M8: 6 / 6 | M7: 3 / 3 | M4: 2 / 2 |  |  | 12 | 12 |
-| Arjun Verma / Offsite Meeting | M13: 7 / 7 | M1: 4 / 4 | M3: 1 / 1 | M2: 1 / 1 |  |  | 13 | 13 |
-| David SR / Underdog | M5: 9 / 9 | M6: 2 / 2 | M6: 2 / 2 | M7:  3 / 3 |  |  | 16 | 16 |
-| Andrew / Club Boat | M4: 2 / 2 | M3: 1 / 1 | DNE: 12 | M12: 5 / 5 |  |  | 20 | 20 |
-| Alexander O | M?: 5 / 5 | M2: 5 / 5 | M1: 6 / 6 | M11: 6 / 6 |  |  | 22 | 22 |
-| Brett Herr / Blue Octopus | M8: 4 / 4 | M5: 3 / 3 | DNC: 12 | M7: 4 / 4 |  |  | 23 | 23 |
-| Doug Atkinson / No Drama | M11: 3 / 3 | DNC: 12 | M8: 7 / 7 | DNC: 12 |  |  | 34 | 34 |
-| Nyle | M9: 10 / 10 | M13: 8 / 8 | M11: 4 / 4 | M13: 8 / 8 |  |  | 30 | 30 |
-| David P | M7: 8 / 8 | DNC: 12 | M4: 5 / 5 | DNC: 12 |  |  | 37 | 37 |
-| Stan Phillips | M6: 6 / 6 | M4: 7 / 7 | DNC: 12 | DNC: 12 |  |  | 37 | 37 |
-| Len Ceruzzi | DNC: 12 | DNC: 12 | DNC: 12 | M6: 7 / 7 |  |  | 43 | 43 |
-* Skipper Count: 11
-* DNC, DNS, DNF, RET, DNE score: 12
+| Sergey Morozov / QuatroBaklajanos | M6: 6 / 6 | M13: 4 / 4 | M11: 1 / 1  | M10: 1 / 1 | M7: 1 / 1 | M1: 5 / 5 | 18 | 7 |
+| Brett Herr / Blue Octopus | M5: 1 / 1 | M4: 2 / 2 | M8: 2 / 2 | M9: 2 / 2 | M4: 4 / 4 | M13: 4 / 4 | 15 | 7 |
+| Andrew / Club Boat | M13: 4 / 4 | M2: 1 / 1 | M4: 3 / 3 | M3: 4 / 4 | M6: 2 / 2 | M5: RET / 11 | 25 | 10 |
+| Arjun Verma / Offsite Meeting | M4: 2 / 2 | M3: 3 / 3 | M9: 4 / 4 | M8: 3 / 3 | M9: 5 / 5 | M4: 6 / 6 | 23 | 12 |
+| David SR / Underdog | M11: 3 / 3 | DNC / 11  | DNC / 11 | M11: 5 / 5 | M5: 3 / 3 | M3: 2 / 2 | 35 | 13 |
+| Doug Atkinson / No Drama | M7: 7 / 7 | M5: 7 / 7  | DNC / 11 | M12: 7 / 7 | M8: 6 / 6 | M2: 1 / 1 | 39 | 21 |
+| Alexander O | DNC / 11 | DNC / 11  | M2: 5 / 5 | M4: RET / 11 | M3: 7 / 7 | M6: 3 / 3 | 48 | 26 |
+| Alex Athougies / Merit Athougies | M9: 5 / 5 | M6: 5 / 5 | M3: 6 / 6 | DNC / 11 | DNC / 11 | DNC / 11 | 49 | 27 |
+| Stan Phillips | M12: 8 / 8 | M7: 6 / 6 | M12: 7 / 7 | M1: 8 / 8 | DNC / 11 | DNC / 11 | 51 | 29 |
+| David P | DNC / 11 | DNC / 11 | DNC / 11 | M7: 6 / 6 | M1: 8 / 8 | M3: RDG / 7 | 54 | 32 |
+* Skipper Count: 10
+* DNC, DNS, DNF, RET, DNE score: 11
 
 
 ### Race Courses:
 
-**Race 1:** Start - Yp - Finish - [RaceQs Replay](http://raceqs.com/regattas/66414?eventId=71846) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2991576)
+**Race 1:** Start - Yp - 12p - Finish - [RaceQs Replay](http://raceqs.com/regattas/65439?eventId=70783) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2944899)
 
-**Race 2:** Start - 12p - Finish - [RaceQs Replay](http://raceqs.com/regattas/66414?eventId=71847) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/3010761)
+**Race 2:** Start - Ep - Finish - [RaceQs Replay](http://raceqs.com/regattas/65439?eventId=70784) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2944904)
 
-**Race 3:** Start - Yp - Finish - [RaceQs Replay](http://raceqs.com/regattas/66414?eventId=71848) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/3015176)
+**Race 3:** Start - Yp - Xp - Finish - [RaceQs Replay](http://raceqs.com/regattas/65439?eventId=70785) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2946415)
 
-**Race 4:** Start - 12p - Finish - [RaceQs Replay](http://raceqs.com/regattas/66414?eventId=71849) - [MapMyTracks Replay]()
+**Race 4:** Start - Xp - 12p - Finish - [RaceQs Replay](http://raceqs.com/regattas/65439?eventId=70786) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2957966)
 
-**Race 5:**
+**Race 5:** Start - Yp - Finish - [RaceQs Replay](http://raceqs.com/regattas/65439?eventId=70787) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2967686)
 
-**Race 6:**
+**Race 6:** Start - 12s - Xs - Finish -  [RaceQs Replay](http://raceqs.com/regattas/65439?eventId=70788) - [MapMyTracks Replay](http://www.mapmytracks.com/explore/activity/2980498)
