@@ -1,7 +1,7 @@
-# Spinnaker Sailing - Spring/Summer 2018
+# Spinnaker Sailing - Summer 2018
 ### Random Draw One Design - Merit 25
 
-| Skipper / Team | Spring Series 1: April 18  - May 23| Summer Series 1:  May 30 - July 11 | Summer Series 2:  July 18  - August 22 | Summer Series 3: August 29 - October 3 | Season Points | Best 16 Races |
+| Skipper / Team | Series 1: April 18  - May 23| Series 2:  May 30 - July 11 | Series 3:  July 18  - August 22 | Series 4: August 29 - October 3 | Season Points | Best 16 Races |
 | --- | --- | --- | --- | --- | --- | --- | 
 | Brett Herr / Blue Octopus | 34 | 24 | 15 | 23 | 96 | 38 |
 | Sergey Morozov / Quatro Baklajanos | 21 | 23 | 18 | 12 | 74 | 38 |
