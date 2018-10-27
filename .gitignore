@@ -1,2 +1,5 @@
 .DS_Store
 .vscode/settings.json
+pages_generator/credentials.json
+pages_generator/token.yaml
+
