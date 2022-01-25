@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:badelf="http://bad-elf.com/xmlschemas/GpxExtensionsV1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://bad-elf.com/xmlschemas http://bad-elf.com/xmlschemas/GpxExtensionsV1.xsd" version="1.1" creator="Bad Elf GPS Pro">
+	<metadata>
+		<extensions>
+			<badelf:gpxDataSource>BadElfApp:3.3.4-1195</badelf:gpxDataSource>
+			<badelf:modelName>BE-GPS-2200</badelf:modelName>
+			<badelf:modelSerialNumber>125669</badelf:modelSerialNumber>
+			<badelf:modelNickname>Bad Elf GPS Pro</badelf:modelNickname>
+			<badelf:modelNumber>BE-GPS-2200</badelf:modelNumber>
+			<badelf:modelHardwareRevision>2.1.2</badelf:modelHardwareRevision>
+			<badelf:modelFirmwareRevision>2.0.78</badelf:modelFirmwareRevision>
+			<badelf:elevationSource>gps</badelf:elevationSource>
+		</extensions>
+	</metadata>
+	<trk>
+		<name>Sunday Afternoon Ride</name>
+		<trkseg>
+			<trkpt lat="39.078235" lon="-120.159893">
+				<ele>1927.400000</ele>
+				<time>2017-02-19T23:19:23.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>7.973882</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078350" lon="-120.159903">
+				<ele>1924.800000</ele>
+				<time>2017-02-19T23:19:28.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078355" lon="-120.159910">
+				<ele>1924.100000</ele>
+				<time>2017-02-19T23:19:33.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078351" lon="-120.159910">
+				<ele>1923.900000</ele>
+				<time>2017-02-19T23:19:38.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078353" lon="-120.159910">
+				<ele>1923.800000</ele>
+				<time>2017-02-19T23:19:43.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078356" lon="-120.159910">
+				<ele>1923.800000</ele>
+				<time>2017-02-19T23:19:48.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078358" lon="-120.159910">
+				<ele>1923.700000</ele>
+				<time>2017-02-19T23:19:53.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078360" lon="-120.159910">
+				<ele>1923.600000</ele>
+				<time>2017-02-19T23:19:59.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078358" lon="-120.159910">
+				<ele>1923.600000</ele>
+				<time>2017-02-19T23:20:04.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.102889</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078358" lon="-120.159910">
+				<ele>1923.600000</ele>
+				<time>2017-02-19T23:20:09.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078358" lon="-120.159910">
+				<ele>1923.500000</ele>
+				<time>2017-02-19T23:20:14.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078361" lon="-120.159910">
+				<ele>1923.500000</ele>
+				<time>2017-02-19T23:20:19.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.720222</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078378" lon="-120.159913">
+				<ele>1923.900000</ele>
+				<time>2017-02-19T23:20:24.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078376" lon="-120.159913">
+				<ele>1924.000000</ele>
+				<time>2017-02-19T23:20:29.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078378" lon="-120.159911">
+				<ele>1924.000000</ele>
+				<time>2017-02-19T23:20:34.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078376" lon="-120.159913">
+				<ele>1923.900000</ele>
+				<time>2017-02-19T23:20:39.000Z</time>
+				<hdop>1.100000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078375" lon="-120.159915">
+				<ele>1923.800000</ele>
+				<time>2017-02-19T23:20:44.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159910">
+				<ele>1923.600000</ele>
+				<time>2017-02-19T23:20:49.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.051444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078368" lon="-120.159910">
+				<ele>1923.500000</ele>
+				<time>2017-02-19T23:20:54.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078368" lon="-120.159910">
+				<ele>1923.400000</ele>
+				<time>2017-02-19T23:20:59.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078368" lon="-120.159911">
+				<ele>1923.400000</ele>
+				<time>2017-02-19T23:21:04.000Z</time>
+				<hdop>1.100000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078368" lon="-120.159911">
+				<ele>1923.400000</ele>
+				<time>2017-02-19T23:21:09.000Z</time>
+				<hdop>1.100000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.400000</ele>
+				<time>2017-02-19T23:21:14.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.300000</ele>
+				<time>2017-02-19T23:21:20.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.300000</ele>
+				<time>2017-02-19T23:21:25.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.300000</ele>
+				<time>2017-02-19T23:21:30.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.300000</ele>
+				<time>2017-02-19T23:21:35.000Z</time>
+				<hdop>1.100000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.300000</ele>
+				<time>2017-02-19T23:21:40.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.300000</ele>
+				<time>2017-02-19T23:21:45.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.300000</ele>
+				<time>2017-02-19T23:21:50.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.200000</ele>
+				<time>2017-02-19T23:21:55.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.200000</ele>
+				<time>2017-02-19T23:22:00.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.200000</ele>
+				<time>2017-02-19T23:22:05.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.200000</ele>
+				<time>2017-02-19T23:22:10.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.200000</ele>
+				<time>2017-02-19T23:22:15.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.200000</ele>
+				<time>2017-02-19T23:22:20.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078371" lon="-120.159915">
+				<ele>1923.200000</ele>
+				<time>2017-02-19T23:22:25.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:22:30.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.051444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:22:35.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159911">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:22:40.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:22:46.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:22:51.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:22:56.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:23:01.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.000000</ele>
+				<time>2017-02-19T23:23:06.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.000000</ele>
+				<time>2017-02-19T23:23:11.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078368" lon="-120.159913">
+				<ele>1923.000000</ele>
+				<time>2017-02-19T23:23:16.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078368" lon="-120.159913">
+				<ele>1923.000000</ele>
+				<time>2017-02-19T23:23:21.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078370" lon="-120.159913">
+				<ele>1923.000000</ele>
+				<time>2017-02-19T23:23:26.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.102889</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078346" lon="-120.159895">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:23:31.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078341" lon="-120.159896">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:23:36.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078341" lon="-120.159896">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:23:41.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078343" lon="-120.159898">
+				<ele>1923.100000</ele>
+				<time>2017-02-19T23:23:46.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078343" lon="-120.159900">
+				<ele>1923.000000</ele>
+				<time>2017-02-19T23:23:51.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078343" lon="-120.159900">
+				<ele>1923.000000</ele>
+				<time>2017-02-19T23:23:56.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078340" lon="-120.159908">
+				<ele>1922.400000</ele>
+				<time>2017-02-19T23:24:01.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.514444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078340" lon="-120.159913">
+				<ele>1921.500000</ele>
+				<time>2017-02-19T23:24:07.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.051444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078338" lon="-120.159916">
+				<ele>1921.200000</ele>
+				<time>2017-02-19T23:24:12.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.154333</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078345" lon="-120.159920">
+				<ele>1921.000000</ele>
+				<time>2017-02-19T23:24:17.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.257222</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078348" lon="-120.159921">
+				<ele>1920.600000</ele>
+				<time>2017-02-19T23:24:22.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.051444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078348" lon="-120.159925">
+				<ele>1920.600000</ele>
+				<time>2017-02-19T23:24:27.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078348" lon="-120.159925">
+				<ele>1920.600000</ele>
+				<time>2017-02-19T23:24:32.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078360" lon="-120.159930">
+				<ele>1920.300000</ele>
+				<time>2017-02-19T23:24:37.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.977444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078393" lon="-120.159945">
+				<ele>1919.600000</ele>
+				<time>2017-02-19T23:24:42.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.720222</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078428" lon="-120.159953">
+				<ele>1919.100000</ele>
+				<time>2017-02-19T23:24:47.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.360111</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078430" lon="-120.159960">
+				<ele>1918.800000</ele>
+				<time>2017-02-19T23:24:52.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.360111</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078461" lon="-120.159968">
+				<ele>1918.000000</ele>
+				<time>2017-02-19T23:24:57.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.925999</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078488" lon="-120.159943">
+				<ele>1917.300000</ele>
+				<time>2017-02-19T23:25:02.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.823110</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078516" lon="-120.159920">
+				<ele>1917.000000</ele>
+				<time>2017-02-19T23:25:07.000Z</time>
+				<hdop>1.000000</hdop>
+				<extensions>
+					<badelf:speed>0.463000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078523" lon="-120.159913">
+				<ele>1916.900000</ele>
+				<time>2017-02-19T23:25:12.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.154333</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078530" lon="-120.159905">
+				<ele>1916.800000</ele>
+				<time>2017-02-19T23:25:17.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.205778</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078553" lon="-120.159893">
+				<ele>1916.900000</ele>
+				<time>2017-02-19T23:25:23.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.463000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078563" lon="-120.159856">
+				<ele>1917.200000</ele>
+				<time>2017-02-19T23:25:29.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.463000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078588" lon="-120.159835">
+				<ele>1917.600000</ele>
+				<time>2017-02-19T23:25:34.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.360111</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078613" lon="-120.159823">
+				<ele>1917.800000</ele>
+				<time>2017-02-19T23:25:39.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.257222</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078640" lon="-120.159810">
+				<ele>1918.000000</ele>
+				<time>2017-02-19T23:25:44.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.308666</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078631" lon="-120.159785">
+				<ele>1918.500000</ele>
+				<time>2017-02-19T23:25:49.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.463000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078603" lon="-120.159763">
+				<ele>1918.800000</ele>
+				<time>2017-02-19T23:25:54.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.514444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078603" lon="-120.159723">
+				<ele>1918.900000</ele>
+				<time>2017-02-19T23:25:59.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.720222</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078621" lon="-120.159681">
+				<ele>1919.000000</ele>
+				<time>2017-02-19T23:26:04.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.360111</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078656" lon="-120.159670">
+				<ele>1919.000000</ele>
+				<time>2017-02-19T23:26:09.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.308666</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078700" lon="-120.159651">
+				<ele>1919.300000</ele>
+				<time>2017-02-19T23:26:14.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.308666</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078710" lon="-120.159631">
+				<ele>1918.900000</ele>
+				<time>2017-02-19T23:26:19.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.360111</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078730" lon="-120.159601">
+				<ele>1918.300000</ele>
+				<time>2017-02-19T23:26:24.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.257222</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078746" lon="-120.159570">
+				<ele>1917.700000</ele>
+				<time>2017-02-19T23:26:29.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.925999</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078765" lon="-120.159508">
+				<ele>1916.400000</ele>
+				<time>2017-02-19T23:26:34.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>1.080332</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078803" lon="-120.159465">
+				<ele>1915.900000</ele>
+				<time>2017-02-19T23:26:39.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.771666</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078838" lon="-120.159445">
+				<ele>1915.800000</ele>
+				<time>2017-02-19T23:26:44.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.720222</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078880" lon="-120.159415">
+				<ele>1914.900000</ele>
+				<time>2017-02-19T23:26:50.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.823110</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078898" lon="-120.159365">
+				<ele>1913.600000</ele>
+				<time>2017-02-19T23:26:55.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.823110</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078911" lon="-120.159320">
+				<ele>1912.700000</ele>
+				<time>2017-02-19T23:27:00.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.051444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159315">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:05.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.051444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:10.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.051444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:15.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:20.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078911" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:25.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:30.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:35.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.102889</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:40.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:45.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:50.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:27:55.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.100000</ele>
+				<time>2017-02-19T23:28:00.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:05.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:11.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:16.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.051444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078913" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:21.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:26.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.051444</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:31.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.102889</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:36.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:41.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:46.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:51.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:28:56.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:29:01.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:29:06.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:29:11.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:29:16.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1912.000000</ele>
+				<time>2017-02-19T23:29:21.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159311">
+				<ele>1911.900000</ele>
+				<time>2017-02-19T23:29:27.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="39.078915" lon="-120.159313">
+				<ele>1911.900000</ele>
+				<time>2017-02-19T23:29:33.000Z</time>
+				<hdop>0.900000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

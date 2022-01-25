@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:badelf="http://bad-elf.com/xmlschemas/GpxExtensionsV1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://bad-elf.com/xmlschemas http://bad-elf.com/xmlschemas/GpxExtensionsV1.xsd" version="1.1" creator="Bad Elf GPS Pro">
+	<metadata>
+		<extensions>
+			<badelf:gpxDataSource>BadElfApp:3.3.4-1195</badelf:gpxDataSource>
+			<badelf:modelName>BE-GPS-2200</badelf:modelName>
+			<badelf:modelSerialNumber>125669</badelf:modelSerialNumber>
+			<badelf:modelNickname>Bad Elf GPS Pro</badelf:modelNickname>
+			<badelf:modelNumber>BE-GPS-2200</badelf:modelNumber>
+			<badelf:modelHardwareRevision>2.1.2</badelf:modelHardwareRevision>
+			<badelf:modelFirmwareRevision>2.0.92</badelf:modelFirmwareRevision>
+			<badelf:elevationSource>gps</badelf:elevationSource>
+		</extensions>
+	</metadata>
+	<trk>
+		<name>Wednesday Evening Walk</name>
+		<trkseg>
+			<trkpt lat="37.502888" lon="-122.213597">
+				<ele>-7.900000</ele>
+				<time>2018-08-16T02:30:38.000Z</time>
+				<hdop>0.800000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.502888" lon="-122.213597">
+				<ele>-7.900000</ele>
+				<time>2018-08-16T02:30:47.000Z</time>
+				<hdop>0.800000</hdop>
+				<extensions>
+					<badelf:speed>0.000000</badelf:speed>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
